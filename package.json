@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-bridge-platform-batch-2lh",
+  "version": "1.0.0",
+  "description": "Logging and observability platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-bridge-platform-batch-2lh"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-bridge-platform-batch-2lh.git"
+  }
+}
